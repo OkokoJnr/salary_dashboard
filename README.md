@@ -160,7 +160,7 @@ Implement the filtered lists as **Data Validation** sources for `Job Title`, `Co
 
 ```
 .
-├─ files/Salary_Dashboard.xlsx     # Working dashboard (jobs, calc, dashboard)
+├─ doc/Salary_Dashboard.xlsx     # Working dashboard (jobs, calc, dashboard)
 ├─ README.md                    # This file
 └─ 0_Resources/
    └─ Images/
