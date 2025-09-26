@@ -12,7 +12,7 @@ It recreates the learning project described in the brief using dynamic Excel tec
 
 ### Dashboard File
 
-My final dashboard is in **[doc\Salary\_Dashboard.xlsx](Salary_Dashboard.xlsx)**.
+My final dashboard is in **[doc\Salary_Dashboard.xlsx](Salary_Dashboard.xlsx)**.
 
 ### Excel Skills Used
 
@@ -52,7 +52,7 @@ The dataset contains job_title_short, job_title, job_location, job_via, job_sche
 
 #### 🗺️ Country Median Salaries — Filled Map
 
-![1\_Salary\_Dashboard\_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+<img src="/0_Resources/Images/Country_Chart.png" width="850" height="550" alt="Salary Dashboard Chart1" >
 
 * 🛠️ **Excel Features:** Use Excel’s **Filled Map** with the pre-built **country median** table on `calc!K2:L` (Country, MedianSalary).
 * 🎨 **Design Choice:** Colour gradient to distinguish salary bands across regions.
@@ -87,7 +87,7 @@ IF(
 🍽️ **Background Table**
 ![1\_Salary\_Dashboard\_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
 
-📉 **Dashboard Implementation** <img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+📉 **Dashboard Implementation** <img src="/0_Resources/Images/Country_Chart.png" width="400" height="500" alt="Salary Dashboard Title">
 
 ---
 
