@@ -3,7 +3,7 @@
 
 # Excel Salary Dashboard
 
-![1\_Salary\_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![\_Salary\_Dashboard.png](/0_Resources/Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 
@@ -42,7 +42,7 @@ The dataset contains job_title_short, job_title, job_location, job_via, job_sche
 
 #### 📊 Data Science Job Salaries — Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.PNG" width="850" height="550" alt="Salary Dashboard Chart1">
 
 * 🛠️ **Excel Features:** Clustered **Bar Chart** with formatted salary axis; layout optimised for readability.
 * 🎨 **Design Choice:** Horizontal bars for quick comparison of median salaries by role.
